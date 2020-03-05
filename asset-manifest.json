@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/how%20to%20host%20a%20website%20on%20github/static/css/main.d1b05096.chunk.css",
-    "main.js": "/how%20to%20host%20a%20website%20on%20github/static/js/main.b40362df.chunk.js",
-    "main.js.map": "/how%20to%20host%20a%20website%20on%20github/static/js/main.b40362df.chunk.js.map",
-    "runtime-main.js": "/how%20to%20host%20a%20website%20on%20github/static/js/runtime-main.78a78b14.js",
-    "runtime-main.js.map": "/how%20to%20host%20a%20website%20on%20github/static/js/runtime-main.78a78b14.js.map",
-    "static/js/2.6510e90a.chunk.js": "/how%20to%20host%20a%20website%20on%20github/static/js/2.6510e90a.chunk.js",
-    "static/js/2.6510e90a.chunk.js.map": "/how%20to%20host%20a%20website%20on%20github/static/js/2.6510e90a.chunk.js.map",
-    "index.html": "/how%20to%20host%20a%20website%20on%20github/index.html",
-    "precache-manifest.41fa80eb5d1fdb7bc380da817f3f07e5.js": "/how%20to%20host%20a%20website%20on%20github/precache-manifest.41fa80eb5d1fdb7bc380da817f3f07e5.js",
-    "service-worker.js": "/how%20to%20host%20a%20website%20on%20github/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/how%20to%20host%20a%20website%20on%20github/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.6510e90a.chunk.js.LICENSE.txt": "/how%20to%20host%20a%20website%20on%20github/static/js/2.6510e90a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/how%20to%20host%20a%20website%20on%20github/static/media/logo.5d5d9eef.svg"
+    "main.css": "/how-to-host-a-website-on-github/static/css/main.d1b05096.chunk.css",
+    "main.js": "/how-to-host-a-website-on-github/static/js/main.6d2f4f60.chunk.js",
+    "main.js.map": "/how-to-host-a-website-on-github/static/js/main.6d2f4f60.chunk.js.map",
+    "runtime-main.js": "/how-to-host-a-website-on-github/static/js/runtime-main.25afdae4.js",
+    "runtime-main.js.map": "/how-to-host-a-website-on-github/static/js/runtime-main.25afdae4.js.map",
+    "static/js/2.6510e90a.chunk.js": "/how-to-host-a-website-on-github/static/js/2.6510e90a.chunk.js",
+    "static/js/2.6510e90a.chunk.js.map": "/how-to-host-a-website-on-github/static/js/2.6510e90a.chunk.js.map",
+    "index.html": "/how-to-host-a-website-on-github/index.html",
+    "precache-manifest.0e1b2407a7568712f1bdfadba30cd2f8.js": "/how-to-host-a-website-on-github/precache-manifest.0e1b2407a7568712f1bdfadba30cd2f8.js",
+    "service-worker.js": "/how-to-host-a-website-on-github/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/how-to-host-a-website-on-github/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.6510e90a.chunk.js.LICENSE.txt": "/how-to-host-a-website-on-github/static/js/2.6510e90a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/how-to-host-a-website-on-github/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.78a78b14.js",
+    "static/js/runtime-main.25afdae4.js",
     "static/js/2.6510e90a.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.b40362df.chunk.js"
+    "static/js/main.6d2f4f60.chunk.js"
   ]
 }
